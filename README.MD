@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Peview do podcast 'TechFantasy – Os Revolucionários da Magia da Inteligência Artificial'
 </p>
 
 <div align="center">
